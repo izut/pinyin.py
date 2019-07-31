@@ -29,3 +29,6 @@ if __name__ == '__main__':
     print('转换成拼音（保留多音字）： %s ' % test.to_pinyin(s, capitalize=True, multi=True))
     print('转换拼音首字母缩写： %s ' % test.to_abbr(s, multi=True))
     
+    s = '加油中国！加油HW!想要P30!'
+    print('"%s" 转换成拼音: %s' % (s, test.to_pinyin(s, join_with=' ', capitalize=True)))
+    print('"%s" 转换成缩写: %s' % (s, test.to_abbr(s)))
