@@ -14,7 +14,7 @@ setup(
             description='hanzi -> pinyin,With Python',
             author='cleverdeng',
             author_email='cleverdeng@gmail.com',
-            url='http://github.com/cleverdeng/pinyin.py',
+            url='http://github.com/cleverdeng/pinyin.test',
             py_modules=['pinyin'],
             license='MIT License',
             platforms=['any'],
