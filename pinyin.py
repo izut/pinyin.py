@@ -3,6 +3,10 @@
 """
     Author:cleverdeng
     E-mail:clverdeng@gmail.com
+    
+    Edit: izut
+    Email: izut@163.com
+    
 """
 
 __version__ = '0.9'
